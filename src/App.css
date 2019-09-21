@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+  height: 2rem;
+  width: 400px;
+  background:#202020;
+  color: aliceblue;
+  margin: auto;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #13171f;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+body{
+    background-color:#5e5c5c;
+}
+
+.App2{
+    height: 400px;
+    display: flex;
+    align-items:center;
+    margin: auto;
+    justify-content: center;
+    max-width: 500px;
+    background: #13171f;
+    background-size:cover;
+    background-position: center;
+    background-image: url('https://images.pexels.com/photos/2182863/pexels-photo-2182863.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+}
