@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Datepicker/static/css/main.19946532.chunk.css",
+    "main.js": "/Datepicker/static/js/main.0f8d606f.chunk.js",
+    "main.js.map": "/Datepicker/static/js/main.0f8d606f.chunk.js.map",
+    "runtime-main.js": "/Datepicker/static/js/runtime-main.415f822a.js",
+    "runtime-main.js.map": "/Datepicker/static/js/runtime-main.415f822a.js.map",
+    "static/js/2.feb9412e.chunk.js": "/Datepicker/static/js/2.feb9412e.chunk.js",
+    "static/js/2.feb9412e.chunk.js.map": "/Datepicker/static/js/2.feb9412e.chunk.js.map",
+    "index.html": "/Datepicker/index.html",
+    "precache-manifest.532e779d6fcf9385c1e7cfacd9ca8f1d.js": "/Datepicker/precache-manifest.532e779d6fcf9385c1e7cfacd9ca8f1d.js",
+    "service-worker.js": "/Datepicker/service-worker.js",
+    "static/css/main.19946532.chunk.css.map": "/Datepicker/static/css/main.19946532.chunk.css.map"
+  }
+}
